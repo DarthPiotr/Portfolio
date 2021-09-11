@@ -1,0 +1,102 @@
+Checking i=0
+inner for  >>>>>>  Checking j=1
+inner for  >>>>>>  Checking j=2
+inner for  >>>>>>  Checking j=3
+inner for  >>>>>>  Checking j=4
+inner for  >>>>>>  Checking j=5
+inner for  >>>>>>  Checking j=6
+inner for  >>>>>>  Checking j=7
+inner for  >>>>>>  Checking j=8
+inner for  >>>>>>  Checking j=9
+inner for  >>>>>>  Checking j=10
+inner for  >>>>>>  Checking j=11
+inner for  >>>>>>  Checking j=12
+inner for  >>>>>>  Checking j=13
+inner for  >>>>>>  Checking j=14
+inner for  >>>>>>  Checking j=15
+inner for  >>>>>>  Checking j=16
+inner for  >>>>>>  Checking j=17
+inner for  >>>>>>  Checking j=18
+inner for  >>>>>>  Checking j=19
+Finished inner for; new i=0, j=20
+
+Tab:
+-40   2, ex? : 1
+-27 -19, ex? : 0
+-23   2, ex? : 0
+-14  -1, ex? : 0
+  3  32, ex? : 1
+  4  48, ex? : 1
+  5  37, ex? : 1
+  8  23, ex? : 1
+ 10  41, ex? : 1
+ 15  50, ex? : 1
+ 18  33, ex? : 1
+ 25  25, ex? : 1
+ 26  43, ex? : 0
+ 26  47, ex? : 1
+ 34  42, ex? : 1
+ 37  49, ex? : 1
+ 38  38, ex? : 1
+ 45  47, ex? : 1
+ 47  47, ex? : 0
+ 47  48, ex? : 1
+---
+Checking i=1
+Checking i=2
+Checking i=3
+Checking i=4
+inner for  >>>>>>  Checking j=5
+inner for  >>>>>>  Checking j=6
+inner for  >>>>>>  Checking j=7
+inner for  >>>>>>  Checking j=8
+inner for  >>>>>>  Checking j=9
+inner for  >>>>>>  Checking j=10
+inner for  >>>>>>  Checking j=11
+inner for  >>>>>>  Checking j=12
+inner for  >>>>>>  Checking j=13
+inner for  >>>>>>  Checking j=14
+inner for  >>>>>>  Checking j=15
+inner for  >>>>>>  Checking j=16
+inner for  >>>>>>  Checking j=17
+inner for  >>>>>>  Checking j=18
+inner for  >>>>>>  Checking j=19
+Finished inner for; new i=4, j=20
+
+Tab:
+-40   2, ex? : 1
+-27 -19, ex? : 0
+-23   2, ex? : 0
+-14  -1, ex? : 0
+  3  50, ex? : 1
+  4  48, ex? : 0
+  5  37, ex? : 0
+  8  23, ex? : 0
+ 10  41, ex? : 0
+ 15  50, ex? : 0
+ 18  33, ex? : 0
+ 25  25, ex? : 0
+ 26  43, ex? : 0
+ 26  47, ex? : 0
+ 34  42, ex? : 0
+ 37  49, ex? : 0
+ 38  38, ex? : 0
+ 45  47, ex? : 0
+ 47  47, ex? : 0
+ 47  48, ex? : 0
+---
+Checking i=5
+Checking i=6
+Checking i=7
+Checking i=8
+Checking i=9
+Checking i=10
+Checking i=11
+Checking i=12
+Checking i=13
+Checking i=14
+Checking i=15
+Checking i=16
+Checking i=17
+Checking i=18
+91

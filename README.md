@@ -1,2 +1,4 @@
 # Portfolio
-Various smaller projects
+Various smaller projects that don't need separate repo.
+
+Mainly projects from university.

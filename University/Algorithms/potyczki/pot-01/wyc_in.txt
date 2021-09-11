@@ -1,0 +1,28 @@
+
+11 10 4
+.XXXXXXXXX
+.X........
+.X.XXXXXX.
+.X.X....X.
+.X.X.XX.X.
+.X.X..X.X.
+.X.XX.X.X.
+.X....X.X.
+.XXXXXX.X.
+........X.
+XXXXXXXXX.
+
+2 1
+2 2
+1 7
+2 1
+
+5 7 1
+......X
+X.X..X.
+..X.X.X
+.X.X...
+.....X.
+2 1
+
+
